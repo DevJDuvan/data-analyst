@@ -1,0 +1,18 @@
+columnas que tenemos Index(['order_id', 'customer_id', 'customer_state', 'product_category',
+       'price', 'freight_value', 'order_purchase_timestamp', 'review_score',
+       'total_order_cost', 'purchase_month'],
+      dtype='str')
+order_id                     0
+customer_id                  0
+customer_state               0
+product_category            30
+price                        0
+freight_value                0
+order_purchase_timestamp     0
+review_score                15
+total_order_cost             0
+purchase_month               0
+dtype: int64
+
+
+[System.Environment]::SetEnvironmentVariable('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', 'User')
