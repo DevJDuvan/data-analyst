@@ -1,8 +1,8 @@
-📊 Análisis de Datos End-to-End: E-Commerce Brasileño (Olist)
+📊 Análisis de Datos End-to-End: E-Commerce (Olist)
 
-<img width="640" height="491" alt="image" src="https://github.com/user-attachments/assets/fcb6c8ea-577b-4007-aa2e-60c497e3eb96" />
+<img width="1040" height="491" alt="image" src="https://github.com/user-attachments/assets/fcb6c8ea-577b-4007-aa2e-60c497e3eb96" />
 
-<img width="640" height="445" alt="image" src="https://github.com/user-attachments/assets/0d97e6e1-d88f-4965-a3c5-0cd4c8fc0bff" />
+<img width="1040" height="445" alt="image" src="https://github.com/user-attachments/assets/0d97e6e1-d88f-4965-a3c5-0cd4c8fc0bff" />
 
 
 ## 📌 Contexto del Proyecto
@@ -29,8 +29,8 @@ Se procesaron múltiples bases de datos relacionales. Se corrigieron inconsisten
 
 ### 2. Modelado y Consultas (SQL)
 Se diseñaron consultas modulares para evitar cuellos de botella y hacer el código mantenible. Como ejemplo, la siguiente consulta utiliza un `CTE` y una función de ventana para obtener el Top 5 de usuarios con más pedidos:
+<img width="1281" height="633" alt="image" src="https://github.com/user-attachments/assets/80c6b62f-75d3-4851-954f-1b12ea56ac49" />
 
-![Snippet de Código SQL](URL_DE_TU_CAPTURA_DE_SQL_AQUI)
 
 ### 3. Visualización y Business Intelligence (Power BI)
 Se importaron los datos limpios, se configuró correctamente la región (formato US para decimales) y se construyeron medidas en DAX como el **% de Satisfacción Alta** (reseñas >= 4) y **Ticket Promedio**.
@@ -39,7 +39,7 @@ Se importaron los datos limpios, se configuró correctamente la región (formato
 
 1. **Satisfacción vs. Logística:** Se comprobó matemáticamente que existe una caída drástica en el puntaje de satisfacción (calificaciones 1 y 2) cuando los tiempos de entrega superan los  días.
 2. **Concentración de Pedidos:** Gracias al ranking desarrollado en SQL, se identificó que  los clientes más recurrentes generan una porción significativa del volumen de pedidos.
-3. **Distribución de Calificaciones:** Del total de órdenes evaluadas, [X] órdenes obtuvieron una calificación alta (4 o 5), representando un [X]% de satisfacción general frente al total de la muestra.
+
 
 ## 📬 Contacto y Perfil Profesional
 
