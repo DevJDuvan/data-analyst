@@ -1,6 +1,8 @@
 📊 Análisis de Datos End-to-End: E-Commerce Brasileño (Olist)
 
-<img width="1044" height="491" alt="image" src="https://github.com/user-attachments/assets/fcb6c8ea-577b-4007-aa2e-60c497e3eb96" />
+<img width="640" height="491" alt="image" src="https://github.com/user-attachments/assets/fcb6c8ea-577b-4007-aa2e-60c497e3eb96" />
+
+<img width="640" height="445" alt="image" src="https://github.com/user-attachments/assets/0d97e6e1-d88f-4965-a3c5-0cd4c8fc0bff" />
 
 
 ## 📌 Contexto del Proyecto
