@@ -7,7 +7,7 @@
 
 ## 📌 Contexto del Proyecto
 "Este proyecto analiza un conjunto de datos adaptado y simulado basado en el modelo de negocio de Olist, abarcando más de 1000 registros. El objetivo principal fue ejecutar un ciclo técnico completo de análisis de datos (ETL, modelado y visualización) para resolver problemas de negocio, aplicar lógica de SQL avanzado y construir KPIs logísticos.".
-Además usamos mas tablas del modelo de negocio de Olist para realizar consultas mas complejas en sql
+Además usamos más tablas del modelo de negocio de Olist para realizar consultas mas complejas en sql
 
 ## 🛠️ Stack Tecnológico y Habilidades Aplicadas
 * **Python (Pandas):** Limpieza de datos, manejo de valores nulos (imputación) y estandarización de formatos.
@@ -20,8 +20,8 @@ Además usamos mas tablas del modelo de negocio de Olist para realizar consultas
 * `data base/`: Contiene los diccionarios de datos y esquemas originales. *(Nota: Por restricciones de peso, los archivos crudos principales se manejan de forma local).*
 * `csv_pandaPython/`: Scripts de Python documentando el proceso de limpieza y los archivos `.csv` finales listos para consumo.
 * `scriptsSql/`: Archivos `.sql` con consultas estructuradas para extraer métricas de negocio, rankings de clientes y volúmenes de pedidos.
-* `excel/`: Reportes preliminares y validación de distribuciones (ej. *Review Scores*).
-* `[Tu_Archivo_PowerBI.pbix]`: Archivo fuente del dashboard interactivo.
+* excel: Reportes preliminares y validación de distribuciones (ej. *Review Scores*).
+* Dashboard_Olist.pbix: Archivo fuente del dashboard interactivo.
 
 ## 🚀 Metodología Paso a Paso
 
