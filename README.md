@@ -6,7 +6,8 @@
 
 
 ## 📌 Contexto del Proyecto
-Este proyecto es un análisis integral de datos reales del e-commerce brasileño **Olist**, abarcando más de 100,000 pedidos. El objetivo principal fue ejecutar un ciclo completo de análisis de datos para identificar los factores logísticos que impactan la satisfacción del cliente y evaluar el comportamiento de ventas.
+"Este proyecto analiza un conjunto de datos adaptado y simulado basado en el modelo de negocio de Olist, abarcando más de 1000 registros. El objetivo principal fue ejecutar un ciclo técnico completo de análisis de datos (ETL, modelado y visualización) para resolver problemas de negocio, aplicar lógica de SQL avanzado y construir KPIs logísticos.".
+Además usamos mas tablas del modelo de negocio de Olist para realizar consultas mas complejas en sql
 
 ## 🛠️ Stack Tecnológico y Habilidades Aplicadas
 * **Python (Pandas):** Limpieza de datos, manejo de valores nulos (imputación) y estandarización de formatos.
