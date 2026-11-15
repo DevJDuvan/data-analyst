@@ -36,9 +36,7 @@ Se diseñaron consultas modulares para evitar cuellos de botella y hacer el cód
 Se importaron los datos limpios, se configuró correctamente la región (formato US para decimales) y se construyeron medidas en DAX como el **% de Satisfacción Alta** (reseñas >= 4) y **Ticket Promedio**.
 
 ## 💡 Insights y Conclusiones del Negocio
-
-1. **Satisfacción vs. Logística:** Se comprobó matemáticamente que existe una caída drástica en el puntaje de satisfacción (calificaciones 1 y 2) cuando los tiempos de entrega superan los  días.
-2. **Concentración de Pedidos:** Gracias al ranking desarrollado en SQL, se identificó que  los clientes más recurrentes generan una porción significativa del volumen de pedidos.
+ **Concentración de Pedidos:** Gracias al ranking desarrollado en SQL, se identificó que  los clientes más recurrentes generan una porción significativa del volumen de pedidos.
 
 
 ## 📬 Contacto y Perfil Profesional
