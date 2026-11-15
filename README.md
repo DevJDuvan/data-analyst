@@ -1,6 +1,7 @@
 📊 Análisis de Datos End-to-End: E-Commerce Brasileño (Olist)
 
-![Dashboard Principal](URL_DE_TU_IMAGEN_DEL_DASHBOARD_AQUI)
+<img width="1044" height="491" alt="image" src="https://github.com/user-attachments/assets/fcb6c8ea-577b-4007-aa2e-60c497e3eb96" />
+
 
 ## 📌 Contexto del Proyecto
 Este proyecto es un análisis integral de datos reales del e-commerce brasileño **Olist**, abarcando más de 100,000 pedidos. El objetivo principal fue ejecutar un ciclo completo de análisis de datos para identificar los factores logísticos que impactan la satisfacción del cliente y evaluar el comportamiento de ventas.
